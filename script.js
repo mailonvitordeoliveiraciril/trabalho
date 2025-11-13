@@ -1,9 +1,10 @@
 function colorir(){
-    document.getElementById("Dinossauro 2").src ="on.png"
+    document.getElementById("dinossauro").src ="on.png"
     console.log("On")
 }
 
 function Descolorir(){
-    document.getElementById("Dinossauro").src ="off.png"
+    document.getElementById("dinossauro").src ="off.png"
     console.log("off")
 }
+ 
